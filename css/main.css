@@ -1221,7 +1221,7 @@ button .btn-primary{
   background-image: url(../img/contenedor.png);
   position: fixed;
   margin: 0% 0% 0% 0%;
-  top: 600px;
+  top: 561px;
   background-color: #3333337A;
   border-radius: 100px 100px 100px 100px;
   padding: 2px;
@@ -1392,6 +1392,7 @@ iframe.canciones{
   right: 0;
   margin: 0 auto;
   width: 100%;
+  height: 130px;
 }
 #padre1{
   position:relative;
