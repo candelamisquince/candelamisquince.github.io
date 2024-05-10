@@ -928,8 +928,8 @@ margin: 28px;
  background-repeat: no-repeat;
  }
 .dressCode h3{
-  font-family: 'Roboto', sans-serif;
-  font-size: 2.5em;
+  font-family: 'Lilita One';
+  font-size: 2em;
   text-align: center;
   color: white;
   
@@ -1377,7 +1377,7 @@ text-align: center;
 
 iframe.canciones{
   width: 350px;
-  height: 900px;
+  height: 880px;
 }
 #padre{
   position:relative;
